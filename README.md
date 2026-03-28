@@ -43,8 +43,11 @@ This project analyzes electronics sales data using Power BI to uncover revenue t
 ## 📸 Dashboard Preview
 
 (Add your Power BI dashboard screenshots here)
+## 📸 Dashboard Preview
 
----
+![Dashboard Overview](dashboard-overview.png)
+![KPI Analysis](kpi-analysis.png)
+![Sales Trend](sales-trend.png)
 
 ## 📂 Files Included
 
@@ -55,3 +58,4 @@ This project analyzes electronics sales data using Power BI to uncover revenue t
 ## 🚀 Conclusion
 
 This dashboard provides clear and actionable insights into sales performance, enabling better strategic decisions and business growth.
+
