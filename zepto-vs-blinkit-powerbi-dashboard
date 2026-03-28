@@ -1,0 +1,36 @@
+# Zepto vs Blinkit Analysis Dashboard (Power BI)
+
+## 📊 Project Overview
+This project presents a comparative analysis of Zepto and Blinkit using Power BI. 
+It focuses on key metrics like delivery time, ratings, product demand, and payment preferences.
+
+## 🎯 Objectives
+- Compare performance of Zepto and Blinkit
+- Analyze customer behavior and product demand
+- Identify top-selling products and cities
+- Evaluate delivery efficiency and ratings
+
+## 📌 Key Insights
+- Milk and Eggs are the most ordered products
+- Mumbai has the highest order volume
+- UPI is the most preferred payment method
+- Average delivery time is around 15 minutes
+- Ratings are close to 3, indicating scope for improvement
+
+## 📈 Dashboard Features
+- KPI Cards (Orders, Delivery Time, Ratings)
+- Monthly order trends
+- Product-wise demand analysis
+- City-wise performance
+- Payment mode distribution
+- Interactive slicers (Quarter, Category, Brand)
+
+## 🛠️ Tools Used
+- Power BI
+- Data Cleaning & Visualization
+
+## 📷 Dashboard Preview
+(Upload your screenshot here)
+
+## 📌 Conclusion
+This dashboard helps in understanding quick-commerce trends and can support business decisions in improving delivery and customer satisfaction.
